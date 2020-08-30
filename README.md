@@ -1,4 +1,4 @@
-<img src="https://github.com/rezehnde/zeno/blob/master/zeno-of-citium.jpg" align="right"/>
+<img src="https://github.com/rezehnde/zeno/blob/master/public/images/zeno-of-citium.jpg" align="right"/>
 
 # zeno
 A minimalist Content Management Framework with only the essential to run a business on the internet.
